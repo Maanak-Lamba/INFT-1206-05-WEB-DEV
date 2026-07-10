@@ -1,4 +1,4 @@
-// Complete variable definitions and random function
+// Complete variable definitions and random function.
 
 const customName = document.getElementById("custom-name");
 const generateBtn = document.querySelector(".generate");
