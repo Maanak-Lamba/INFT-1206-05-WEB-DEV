@@ -2,7 +2,7 @@ const displayedImage = document.querySelector(".displayed-img");
 const thumbBar = document.querySelector(".thumb-bar");
 const btn = document.querySelector("button");
 const overlay = document.querySelector(".overlay");
-// Solution: Create a data object.
+// Solution: Create a data object..
 const images = [
   { filename: "pic1.jpg", alt: "Closeup of a human eye" },
   { filename: "pic2.jpg", alt: "Rock that looks like a wave" },
