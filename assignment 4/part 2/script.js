@@ -12,8 +12,7 @@ const images = [
 ];
 // Solution: Loop through the images
 // Create a baseURL constant containing the baseURL of the images
-const baseURL =
-  "https://mdn.github.io/shared-assets/images/examples/learn/gallery/";
+const baseURL = "images/";
 // Loop through the images using a for...of loop
 for (const image of images) {
   // Create a new image element
